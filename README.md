@@ -25,7 +25,8 @@ La página principal presenta un diseño con un menú de navegación y secciones
 Los productos se cargan dinámicamente desde Firebase y se presentan en tarjetas con imágenes, descripciones y precios. Además, se implementa un carrito de compras interactivo que muestra la cantidad de productos añadidos en tiempo real.
 
 
-https://github.com/edudiaz125/EntregaFinal-DiazEduardo-React/blob/main/inicio.png
+![image](https://github.com/user-attachments/assets/17c93f5d-fea5-4851-9abc-757fcfe9af85)
+
 
 
 #### Detalle del Producto:
